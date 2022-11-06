@@ -21,21 +21,3 @@ featuredImage: ""
 7. MQTT
 8. MODBUS protocol
 9. HTML, CSS, JavaScript
-
-Some of the case studies and research I conducted
-
-[Case Studies and Reports](https://www.notion.so/f9b4ab081c3749b69176830ce8d78416)
-
-Testing of Doppler Sensors with street lights
-
-Final built control gear
-
-Assembled PCB
-
-Complete unit with street light and control gear
-
-![](/assets/img_20180130_180540.jpg)
-
-![](/assets/img_20180329_134131.jpg)
-
-![](/assets/img_20180623_120256.jpg)
