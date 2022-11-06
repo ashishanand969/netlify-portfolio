@@ -4,7 +4,7 @@ title: Smart Street Lighting System
 slug: /smart-street-lighting-system
 date: 2022-11-05 23:36
 description: smart street lighting
-featuredImage: ""
+featuredImage: /assets/img_20180329_134131.jpg
 ---
 **Aim of the project** - The idea behind working on smart street lighting systems was to reduce energy wastage in outdoor lighting that is incurred due to poor practices in maintainence and operations.
 
