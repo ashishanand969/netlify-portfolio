@@ -6,8 +6,6 @@ date: 2022-11-05 23:36
 description: smart street lighting
 featuredImage: ""
 ---
-<!--StartFragment-->
-
 **Aim of the project** - The idea behind working on smart street lighting systems was to reduce energy wastage in outdoor lighting that is incurred due to poor practices in maintainence and operations.
 
 **Final outcomes -** We were able to install more than 50+ plus smart street lighting control gear that are operational and save over 40% more energy than conventional LED lights. I eventually started a company to further work on this project.
@@ -35,8 +33,6 @@ Final built control gear
 Assembled PCB
 
 Complete unit with street light and control gear
-
-
 
 ![](/assets/img_20180130_180540.jpg)
 
