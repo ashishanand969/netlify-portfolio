@@ -5,7 +5,7 @@ title: Ashish Anand
 tagline: Product Manager
 featuredImage: /assets/dsc_1407.jpg
 cta:
-  ctaText: Know more
+  ctaText: Know more about me
   ctaLink: /about
 ---
-Product Manager
+Product Manager | 2x Entrepreneur | Building Stuff
