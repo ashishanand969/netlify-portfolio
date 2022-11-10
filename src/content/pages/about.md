@@ -5,12 +5,46 @@ title: About Me
 ---
 <!--StartFragment-->
 
-I am a passionate individual with an entrepreneurial spirit. I enjoy working on new ideas to make life easier for users, businesses, and society. I have half a decade of experience in building things from scratch. I started my first venture when I was 19 and had a successful run with it. Later on, I started another company in my final year, 22. I ran that company for three years with significant traction and investment from the state. I was able to secure funding of around USD 50,000. I represented the company on multiple global platforms. Unfortunately, it could not scale due to a lack of financing in the growth stages, but building world-class products was a great experience.\
-\
-I then shifted to working with AirProbe initially as a technical consultant but soon transitioned into the first product manager for the company. At AirProbe, I worked with a fantastic set of people and set up systems and processes that helped the company scale from a ten-member team to 25+. We had only one product when I started, and by the time I left, we had four products within 18 months of joining. I led two complete products. DroneBase USA recently acquired AirProbe. It was a successful acquisition, and I am proud of what my team and I have achieved together at AirProbe.\
-\
-I am now studying at UCI, pursuing my master's in Embedded and Cyber-physical Systems. This is one kind of program that aligns with my interest in building products that are at the intersection of hardware and software. I am currently advising some startups in India on the product, marketing, and strategy.\
-\
-Specialties: Customer research and usability, product management, project management, cross-functional communications, data-driven analysis, PowerPoint presentations
+✔ Ask me about how to build products that customers love!
+
+As a technologist, I help SMEs & Startups develop products which can be hardware, software, or both. 
+
+Previously, I built 2 ventures and scaled a bootstrapped SaaS startup 10X to $2M ARR across 25+ markets as part of the Founding team, leading to the acquisition of the company later on. 
+
+Highly passionate & Entrepreneurial business leader who loves working on increasingly complex challenges leveraging technology to drive impact. Curiosity, commitment, and attitude have led to high-quality experiences across building & scaling tech products since age 19!
+
+
+
+➡️ Life chapters:
+
+
+
+✈️ At 19, I started up a college merchandising business and ran it for 2 years successfully 
+
+🏆 At 21, student entrepreneur; National Winner & Finalist | B-Plan @ Dewang Mehta Business Plan Competition Nasscom
+
+🏆 At 22, Awarded a grant of $50,000 for being selected in the top 100 startups out of 1800 startups 
+
+🗣️ At 24, I Gave a TEDx talk on “the power of an Idea.”
+
+✈️ At 24, I Traveled to China as a semi-finalist at the @Alibaba Cloud Contest
+
+⚡️ 10X Growth: Founding team @ AirProbe to launch into Europe, Australia, Japan, and US Markets
+
+🚀 Founded a smart street lighting IoT Company to reduce energy wastage 
+
+🎓 University Of California Irvine (UCI), Indian Insitute of Science (IIsc)
+
+🗞️ Media coverage @ Times of India, Deccan Chronicles, Electronics For You 
+
+🌎 TEDx Speaker, Author, Public Speaker
+
+
+
+📞 Specialities - SaaS, Robotics, Drones, Startups, Sales, Strategy and Go-To-Market
+
+🎈 Interests - Startups, Economics, Systems Thinking, Sustainability 
+
+📩 Exciting idea to chat? -> ashishanand\[nine]\[six]\[nine]\[at] gmail \[dot] com
 
 <!--EndFragment-->
