@@ -15,8 +15,8 @@ const MenuItems = [
     title: "About",
   },
   {
-    path: "/blog",
-    title: "Prpjects",
+    path: "https://wavesurfer.substack.com/",
+    title: "Blog",
   },
   {
     path: "/contact",
