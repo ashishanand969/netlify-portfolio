@@ -8,4 +8,4 @@ cta:
   ctaText: Know more about me
   ctaLink: /about
 ---
-Product Manager | 2x Entrepreneur | Building Stuff
+2x Entrepreneur | Product Manager | Transforming Ideas to Reality 
