@@ -21,3 +21,5 @@ featuredImage: /assets/img_20180329_134131.jpg
 7. MQTT
 8. MODBUS protocol
 9. HTML, CSS, JavaScript
+
+While working on this product I had to work with a team of 10 engineers which had both software and hardware backgrounds.
